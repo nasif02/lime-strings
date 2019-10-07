@@ -1,2 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+
+    <string name="num_0">0</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+
+    <string name="num_0_spl">শুন্য</string>
+    <string name="num_1_spl">এক</string>
+    <string name="num_2_spl">দুই</string>
+    <string name="num_3_spl">তিন</string>
+    <string name="num_4_spl">চার</string>
+    <string name="num_5_spl">পাঁচ</string>
+    <string name="num_6_spl">ছয়</string>
+    <string name="num_7_spl">সাত</string>
+    <string name="num_8_spl">আট</string>
+    <string name="num_9_spl">নয়</string>
+
+</resources>
