@@ -1,4 +1,4 @@
-# lime-strings #
+[![API](https://img.shields.io/badge/API-21%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
 This is a strings library made for android
 
