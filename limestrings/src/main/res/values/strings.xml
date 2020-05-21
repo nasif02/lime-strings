@@ -219,12 +219,12 @@
     <string name="report_submit">Report Submit</string>
     <string name="reset">Reset</string>
     <string name="reset_all">Reset All</string>
-    <string name="reset_all_msg">Reset All Msg</string>
+    <string name="reset_all_msg">Click here to reset all preference</string>
     <string name="retry">Retry</string>
     <string name="save">Save</string>
     <string name="search">Search</string>
     <string name="search_result_none">No Result For Your Search</string>
-    <string name="see_all">See All</string>
+    <string name="see_all">See all</string>
     <string name="send_data_confirmation">Do you want to send data?</string>
     <string name="send_failed">Sent Failed</string>
     <string name="send_success">Sent</string>
@@ -260,7 +260,7 @@
     <string name="subscription">Subscription</string>
     <string name="subscription_found_msg">You already subscribed</string>
     <string name="support">Support</string>
-    <string name="tell_a_friend">Tell A Friend</string>
+    <string name="tell_a_friend">Tell a friend</string>
     <string name="terms_and_conditions">Terms and Conditions</string>
     <string name="test">Test</string>
     <string name="thank_you">Thank You!</string>
@@ -298,5 +298,22 @@
     <string name="xxxxxxxxxx">XXXXXXXXXX</string>
     <string name="year">Year</string>
     <string name="yes">Yes</string>
+
+    <string name="author">Author</string>
+    <string name="category">Category</string>
+    <string name="close">Close</string>
+    <string name="dark">Dark</string>
+    <string name="day_mode">Day Mode</string>
+    <string name="developer">Developer</string>
+    <string name="free">Free</string>
+    <string name="light">Light</string>
+    <string name="more_apps_with_click">Click to download more free apps.</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="open">Open</string>
+    <string name="paid">Paid</string>
+    <string name="pro">Pro</string>
+    <string name="theme">Theme</string>
+    <string name="writer">Writer</string>
+    <string name="signup_underline"><u>Signup</u></string>
 
 </resources>

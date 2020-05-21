@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="num_0">0</string>
-    <string name="num_1">1</string>
-    <string name="num_2">2</string>
-    <string name="num_3">3</string>
-    <string name="num_4">4</string>
-    <string name="num_5">5</string>
-    <string name="num_6">6</string>
-    <string name="num_7">7</string>
-    <string name="num_8">8</string>
-    <string name="num_9">9</string>
+    <string name="num_0">০</string>
+    <string name="num_1">১</string>
+    <string name="num_2">২</string>
+    <string name="num_3">৩</string>
+    <string name="num_4">৪</string>
+    <string name="num_5">৫</string>
+    <string name="num_6">৬</string>
+    <string name="num_7">৭</string>
+    <string name="num_8">৮</string>
+    <string name="num_9">৯</string>
 
     <string name="num_0_spl">শুন্য</string>
     <string name="num_1_spl">এক</string>
