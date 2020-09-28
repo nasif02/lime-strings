@@ -10,7 +10,7 @@ This is a strings library made for android
 
 ### How to use ###
 
-implementation 'com.github.nasif02:lime-strings:c6a927fe88'
+implementation 'com.github.nasif02:lime-strings:1.0.0'
 
 
 ### Features ###
